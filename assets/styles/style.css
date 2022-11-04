@@ -93,7 +93,7 @@ a, i {
     position: relative;
 }
 
-.main-image-info {
+.main-image-info { 
     background-color: #FFF;
 
     bottom: 25px;
@@ -103,4 +103,41 @@ a, i {
     padding: 25px;
 
     position: absolute;
+}
+
+/* galeria */
+#gallery-container h3 {
+    text-align: center;
+}
+
+#gallery-container h3,
+#gallery-container .col-12,
+#gallery-container .col-md-6 {
+    margin-bottom: 50px;
+}
+
+.small-image-container {
+    height: 250px;
+
+    margin-bottom: 20px;
+}
+
+#img2 {
+    background-image: url("../imgs/g_2.jpg");
+}
+
+#img3 {
+    background-image: url("../imgs/g_3.jpg");
+}
+
+#img4 {
+    background-image: url("../imgs/g_4.jpg");
+}
+
+#img5 {
+    background-image: url("../imgs/g_5.jpg");
+}
+
+#img6 {
+    background-image: url("../imgs/g_6.jpg");
 }
