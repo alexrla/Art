@@ -141,3 +141,34 @@ a, i {
 #img6 {
     background-image: url("../imgs/g_6.jpg");
 }
+
+/* footer */
+footer {
+    border-top: 1px solid #CCC;
+
+    height: 250px;
+
+    padding: 30px;
+}
+
+footer i {
+    font-size: 20px;
+}
+
+#social-icons-container {
+    padding: 25px;
+}
+
+#social-icons-container div {
+    text-align: center;
+}
+
+footer p {
+    margin: 20px;
+
+    text-align: center;
+}
+
+a:hover i {
+    color: #C1B696;
+}
