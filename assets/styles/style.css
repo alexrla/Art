@@ -81,3 +81,26 @@ a, i {
 #navbar a:hover {
     color: #C1B696;
 }
+
+/* banner principal */
+.main-image {
+    background-image: url("../imgs/g_1.jpg");
+
+    height: 400px;
+
+    margin-bottom: 30px;
+
+    position: relative;
+}
+
+.main-image-info {
+    background-color: #FFF;
+
+    bottom: 25px;
+
+    left: 25px;
+
+    padding: 25px;
+
+    position: absolute;
+}
